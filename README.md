@@ -6,5 +6,3 @@
  ⁕ Training 
  
  ⁕ Travel ✈️
-
- ⁕ Learning
