@@ -2,6 +2,8 @@
 
 [Hobby](/gamingphoto.jpg)
 
+[TwitchTv](/Twitch.tv)
+
 ## Hobbies:
  ⁕ Gaming
 
