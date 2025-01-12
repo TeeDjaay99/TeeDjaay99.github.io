@@ -2,7 +2,7 @@
 
 [Hobby](/gamingphoto.jpg)
 
-[TwitchTv](/https://www.twitch.tv/)
+
 
 ## Hobbies:
  ⁕ Gaming
@@ -10,3 +10,6 @@
  ⁕ Training 
  
  ⁕ Travel ✈️
+
+
+[Skills](/skills.md)
