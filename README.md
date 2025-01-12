@@ -5,6 +5,6 @@
 
  ⁕ Training 
  
- ⁕ Traveling ✈️
+ ⁕ Travel ✈️
 
  ⁕ Learning
