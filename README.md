@@ -1,1 +1,10 @@
-# TeeDjaay99.github.io
+# TeeDjaay99's Website
+
+## Hobbies:
+ ⁕ Gaming
+
+ ⁕ Training 
+ 
+ ⁕ Traveling ✈️
+
+ ⁕ Learning
